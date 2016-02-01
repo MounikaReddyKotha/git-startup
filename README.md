@@ -1,5 +1,5 @@
 # git-startup
 hello-world
 ===============================
-wip.
+wip
 done.
